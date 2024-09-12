@@ -1,0 +1,19 @@
+.numbers {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.numbers_item {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 50%;
+    border: 2px solid black;
+    font-size: 20px;
+}

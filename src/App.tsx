@@ -15,9 +15,10 @@ const App = () => {
 
   return (
       <>
-        <div className="numbers">
-          {numbersDraw}
-        </div>
+          <button type="button" className="btn">New numbers</button>
+          <div className="numbers">
+              {numbersDraw}
+          </div>
       </>
   );
 };

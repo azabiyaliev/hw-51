@@ -1,0 +1,9 @@
+.btn {
+    display: block;
+    margin: 50px auto;
+    padding: 5px 10px;
+    background: #fff;
+    box-shadow: 6px 8px 4px 0 rgba(0, 0, 0, 0.2);
+    font-size: 20px;
+    cursor: pointer;
+}
